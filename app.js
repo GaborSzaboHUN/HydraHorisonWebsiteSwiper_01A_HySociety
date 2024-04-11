@@ -32,6 +32,9 @@ $('.slider-gallery-component').each(function (index) {
         centeredSlides: true,
         slideActiveClass: 'is-active',
         slideDuplicateActiveClass: 'is-active',
+        autoplay: {
+            delay: 5000,
+        },
         thumbs: {
             swiper: bgSwiper,
         },
