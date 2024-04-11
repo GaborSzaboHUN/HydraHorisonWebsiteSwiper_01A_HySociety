@@ -33,7 +33,7 @@ $('.slider-gallery-component').each(function (index) {
         slideActiveClass: 'is-active',
         slideDuplicateActiveClass: 'is-active',
         autoplay: {
-            delay: 5000,
+            delay: 3000,
         },
         thumbs: {
             swiper: bgSwiper,
